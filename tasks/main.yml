@@ -45,4 +45,6 @@
   command: supervisorctl update
 
 - name: restart
-  command: "sudo supervisorctl restart remote_syslog"
+  command: "supervisorctl restart remote_syslog"
+  become: true
+  become_user: root
