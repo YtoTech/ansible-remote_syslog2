@@ -1,6 +1,6 @@
 # Ansible Role for Papertrails RemoteSyslog2
 
-[![Build Status](https://travis-ci.org/mortik/ansib
+[![Build Status](https://travis-ci.org/YtoTech/ansible-remote_syslog2.svg?branch=master)](https://travis-ci.org/YtoTech/ansible-remote_syslog2)
 
 A Simple Role to install Remote Syslog 2
 
